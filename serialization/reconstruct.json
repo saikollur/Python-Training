@@ -1,0 +1,26 @@
+{
+    "students": [
+        {
+            "name": "Sai Krishna",
+            "details": {
+                "course": "AI&ML",
+                "marks": [
+                    78,
+                    85,
+                    90
+                ]
+            }
+        },
+        {
+            "name": "Tarun",
+            "details": {
+                "course": "BFA",
+                "marks": [
+                    88,
+                    92,
+                    80
+                ]
+            }
+        }
+    ]
+}

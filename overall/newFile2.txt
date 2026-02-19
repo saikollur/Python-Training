@@ -1,0 +1,2 @@
+Total sum : 210 
+Average : 10.5

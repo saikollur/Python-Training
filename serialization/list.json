@@ -1,0 +1,32 @@
+[
+    {
+        "age": 22,
+        "college": "vignan",
+        "name": "sai"
+    },
+    {
+        "age": 20,
+        "college": "vignan",
+        "name": "tarun"
+    },
+    {
+        "age": 21,
+        "college": "srm",
+        "name": "sasi"
+    },
+    {
+        "age": 24,
+        "college": "KL",
+        "name": "vydhu"
+    },
+    {
+        "age": 19,
+        "college": "vit",
+        "name": "pavan"
+    },
+    {
+        "age": 18,
+        "college": "bits",
+        "name": "arjun"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Sai Krishna",
+        "salary": 80000,
+        "annual_salary": 960000
+    },
+    {
+        "name": "Sasidhar",
+        "salary": 66000,
+        "annual_salary": 792000
+    },
+    {
+        "name": "Tarun",
+        "salary": 54000,
+        "annual_salary": 648000
+    },
+    {
+        "name": "Nani",
+        "salary": 100000,
+        "annual_salary": 1200000
+    },
+    {
+        "name": "Sravan",
+        "salary": 50000,
+        "annual_salary": 600000
+    }
+]
